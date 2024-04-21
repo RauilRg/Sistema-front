@@ -1,6 +1,0 @@
-Funcionalidade das clinicas.
-
-1 - Clinico
-2 - Cardiologia
-3 - Odontologico
-4 - Psicologia
